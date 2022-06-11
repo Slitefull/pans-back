@@ -1,0 +1,9 @@
+# dependencies
+**/node_modules
+# testing
+/coverage
+# misck
+.DS_Store
+npm-debug.log*
+.env
+.idea
